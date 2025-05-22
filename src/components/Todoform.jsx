@@ -23,7 +23,7 @@ function TodoForm() {
                 value={todo}
                 onChange={(e)=>settodo(e.target.value)}
             />
-            <button type="submit" className="rounded-r-lg px-3 py-1 bg-[#c2eef5] text-[#040a23] shrink-0">
+            <button type="submit" className="rounded-r-lg px-3 py-1 bg-[#c4f1f8] text-[#040a23] shrink-0">
                 Add
             </button>
         </form>
